@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-nk",
+  "name": "bootstrap-nk-jvt",
   "version": "1.0.0",
   "keywords": [
     "css",
@@ -29,6 +29,7 @@
   "homepage": "https://github.com/novakom-devel/bootstrap-nk",
   "devDependencies": {
     "grunt": "^0.4.5",
+    "grunt-cli": "^1.1.0",
     "grunt-contrib-clean": "^0.7.0",
     "grunt-contrib-copy": "^0.8.2",
     "grunt-contrib-cssmin": "^0.14.0",
